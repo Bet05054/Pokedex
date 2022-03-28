@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:  #ac2311;
+    position: relative;
+ 
+
+}
+html {
+  
+}
+
+/*Header*/
+
+.Hero{
+    background: linear-gradient(100deg, #eb665571 15%, hsla(27, 48%, 65%, 0.397) 0%), url(../JS/assets/img/sol\ y\ luna.PNG);
+    width: 100%;
+    height: 396px;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    overflow: auto;
+}
+.Logo1 {
+    margin-top: 60px;
+    
+}
+
+.Logo2 img{
+    margin-top: -140px;
+    margin-left: 1200px;
+   
+}
+/****Titulo-Pokedex****/
+
+
+.Elige h1{
+   font-family: cursive;
+   color: rgb(250, 245, 245);
+   font-size: 35px;
+   text-align: center;
+   margin-top: 20px;
+   
+ 
+}
+
+
+
+.Logo3 img{
+    margin-top: -320px;
+    margin-left: 1280px;
+   
+}
+
+/***buscador***/
+
+.buscador input{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 550px;
+    border-radius: 8px;
+    padding: 10px 130px;
+    box-shadow: 5px 5px 22px rgba(17, 16, 16, 0.5);
+}
+
+.buscador input:hover{
+    background-color: #ebd9d9;
+}
+
+.buscador img {
+    margin-top: -230px;
+    margin-left: 1040px;
+}
+.tache img{
+    margin-top: -300px;
+    margin-left: 1100px;
+}
+    
+.imagenes-buscador{
+   
+    
+}
+
+
+
+
+
+
+   
+
